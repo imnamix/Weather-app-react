@@ -1,8 +1,9 @@
 # Weather App ☀️
 
-### [Demo](https://weather-app-0xayushm.vercel.app/) | [Video](https://youtu.be/0ls5DqBSaVo)
+### [Demo](https://weather-app-0xayushm.vercel.app/) 
 
-<img src='./public/readme.png'> 
+<img src='![image](https://github.com/imnamix/Weather-app-react/assets/140718104/c3963d41-81c0-4fa9-8ea9-bfc1015fd1a3)
+'> 
 
 This is a simple weather application built using React. It allows users to search for weather information for a specific location and provides details such as temperature, humidity, wind speed, and weather description.
 
