@@ -1,6 +1,6 @@
 # Weather App ☀️
 
-### [Demo](https://weather-app-0xayushm.vercel.app/) 
+### [Demo](https://jkweather.netlify.app/) 
 
 <img src='![image](https://github.com/imnamix/Weather-app-react/assets/140718104/c3963d41-81c0-4fa9-8ea9-bfc1015fd1a3)
 '> 
